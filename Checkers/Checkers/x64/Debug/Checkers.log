@@ -1,0 +1,10 @@
+﻿  Checkers.cpp
+E:\Visual Studio\NEW\Checkers\Checkers\square.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Visual Studio\NEW\Checkers\Checkers\bot.h(484,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Visual Studio\NEW\Checkers\Checkers\bot.h(504,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Visual Studio\NEW\Checkers\Checkers\bot.h(585,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Visual Studio\NEW\Checkers\Checkers\bot.h(616,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Visual Studio\NEW\Checkers\Checkers\bot.h(674,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Visual Studio\NEW\Checkers\Checkers\bot.h(102): warning C4715: 'boardState::_getOpositDerection': not all control paths return a value
+E:\Visual Studio\NEW\Checkers\Checkers\bot.h(836): warning C4715: 'bot::_getOpositDerection': not all control paths return a value
+  Checkers.vcxproj -> E:\Visual Studio\NEW\Checkers\x64\Debug\Checkers.exe
